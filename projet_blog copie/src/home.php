@@ -51,7 +51,7 @@ $requete = $printComments->fetchAll();
 
         <form method="POST">
             <input type="text" name="comment_id" placeholder="Id du commentaire">
-            <input type="submit" value="Valider" name="delete" />
+            <input type="submit" value="Supprimer" name="delete" />
         </form>
     </div>
 
