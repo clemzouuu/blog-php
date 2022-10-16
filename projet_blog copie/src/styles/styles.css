@@ -1,0 +1,30 @@
+body {
+    background-color: #f9f3ec;
+    padding: 2% 40% 0% 40%;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+#main {
+    width:250px;
+    padding: 20px 70px 50px 50px;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+
+#image {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    position:relative;
+    top: 20px;
+    left: 50px;
+}
+
+h1 {
+    display: inline;
+}
